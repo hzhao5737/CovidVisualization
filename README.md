@@ -16,3 +16,5 @@ Sources
   - https://www1.nyc.gov/site/doh/covid/covid-19-data.page
   - https://github.com/nychealth/coronavirus-data
   - https://censusreporter.org/profiles/86000US10016-10016/
+  
+  Members: Enxhi Osmanllari, Hunter Zhao, Edwin Pineda, Jackson Lu
