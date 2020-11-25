@@ -1,2 +1,2 @@
 # CovidVisualization
-Tableau Visualization of Poverty and Ethnicity in Relationhip to Covid
+Tableau Visualization of Poverty and Ethnicity in Relationship to Covid-19
